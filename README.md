@@ -1,0 +1,2 @@
+# Team-Tracker
+Team-Tracker is a powerful team management tool offering **real-time collaboration**, **task assignments**, and **progress tracking**. With client apps available for **Android, Desktop, iOS, and Web**, it ensures seamless access and productivity across all devices. Designed to keep teams organized and connected, Team-Tracker streamlines workflows and enhances efficiency for businesses and projects of all sizes.
